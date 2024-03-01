@@ -15,4 +15,4 @@ This project was made possible with the help of [Angela Yu](https://www.udemy.co
 
 ## Links
 - [Angela Yu's Udemy Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
-- [Drumming Fun Website](https://harshraj1695.github.io/Drum_kit/) (Replace '#' with your website URL)
+- [Drumming Fun Website](https://harshraj1695.github.io/Drum_kit/) 
